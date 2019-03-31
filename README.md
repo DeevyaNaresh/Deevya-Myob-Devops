@@ -1,9 +1,6 @@
 # Deevya-Myob-Devops
 Myob Devops Technical Test
 
-# Deevya-Myob-Devops
-Myob Devops Technical Test
-
 by Deevya Naresh
 
 Live site: http://deevya.com/Deevya-devops/
